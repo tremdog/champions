@@ -10,6 +10,7 @@ CoC.data.champions = new Backbone.Collection([
   { uid:'blackbolt', typeId:'cosmic', stars: 5 },
 
   { uid:'captainmarvel', typeId:'cosmic', stars: 3 },
+  { uid:'captainmarvel', typeId:'cosmic', stars: 4 },
   { uid:'captainmarvel', typeId:'cosmic', stars: 5 },
 
   { uid:'drax', typeId:'cosmic', stars: 2 },
